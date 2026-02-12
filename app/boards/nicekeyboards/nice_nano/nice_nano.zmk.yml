@@ -1,5 +1,5 @@
 file_format: "1"
-id: nice_nano//zmk
+id: nice_nano
 name: nice!nano
 type: board
 arch: arm

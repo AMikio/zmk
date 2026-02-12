@@ -1,5 +1,5 @@
 file_format: "1"
-id: ferris//zmk
+id: ferris
 name: Ferris 0.2
 type: board
 arch: arm

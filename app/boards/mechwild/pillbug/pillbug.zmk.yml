@@ -1,5 +1,5 @@
 file_format: "1"
-id: pillbug//zmk
+id: pillbug
 name: PillBug
 type: board
 arch: arm

@@ -1,5 +1,5 @@
 file_format: "1"
-id: sparkfun_pro_micro_rp2040//zmk
+id: sparkfun_pro_micro_rp2040
 name: SparkFun Pro Micro RP2040
 type: board
 arch: arm

@@ -3,8 +3,6 @@ board:
   vendor: olkb
   socs:
     - name: stm32f303xc
-      variants:
-        - name: zmk
   revision:
     format: major.minor.patch
     default: 6.0.0
